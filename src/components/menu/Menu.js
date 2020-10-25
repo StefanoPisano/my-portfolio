@@ -5,7 +5,7 @@ export default class Menu extends Component {
     render() {
         return (
         <div className="row">
-            <div className="col-md-9">
+            <div className="col-md-8">
                 <span className="signature">Stefano Pi.</span>
             </div>
             <div className="col menuLink">SKILLS</div>
